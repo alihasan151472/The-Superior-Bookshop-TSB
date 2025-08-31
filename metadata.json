@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Master original tsb",
+  "description": "A bookshop app with POS, barcode scanning, and online printing services.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
